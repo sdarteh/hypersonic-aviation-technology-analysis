@@ -36,7 +36,7 @@ Examples discussed include:
 * **Boeing X-51:** An experimental program investigating scramjet-powered hypersonic flight.
 * **Concorde:** A historical example of commercial supersonic passenger transportation, offering lessons about operating costs, market positioning, and commercial sustainability.
 
-The research also considered emerging aerospace companies and development initiatives as part of the broader technology landscape. Together, they provided context for examining technology development, experimentation, technical milestones, and the challenges of commercialization.
+The research also considers emerging aerospace companies and development initiatives as part of the broader technology landscape. Together, they provide context for examining technology development, experimentation, technical milestones, and the challenges of commercialization.
 
 **3. Commercial Applications and Market Potential**
 
@@ -76,24 +76,6 @@ The study highlights the agnostic relationship between technological innovation 
 
 These themes provide a basis for further research into emerging technologies and the methods used to assess their maturity, applications, and market potential.
 
-## Academic and Professional Relevance
-
-The study examines technology innovation, emerging technology assessment, market research, and the commercialization of complex technical systems. It also provides the framework for future work involving data integration, technology trend analysis, machine learning, generative AI and analytics to organize technical information, evaluate emerging technologies, identify patterns, and support strategic decisions. Relevant areas of Management of Technology and Innovation include:
-
-* Diversity, Necessity, and Evolution
-* Evolution of Technology
-* Emerging Technologies
-* New Product Development
-* Product Architecture
-* Technology Standards and Dominant Designs
-* Disruptive Innovation
-* Industry Lifecycle and Time of Entry
-* Marketing Innovative Products
-* Innovation Networks, Ecosystems, and Platforms
-* Intellectual Property Management and Technology Roadmapping
-* R&D Management and Technological Capabilities
-* Corporate Entrepreneurship and Innovation Management Systems
-
 ## Study Extension: Technology Trend Analysis
 
 Technology trend analysis can help organizations understand emerging technologies, compare competing approaches, identify potential applications, and evaluate commercialization opportunities. This is not limited to:
@@ -114,6 +96,26 @@ Map startups, research institutions, technology providers, investors, and potent
 Develop comparative assessment frameworks to identify promising opportunities, evaluate risks, and highlight areas requiring further research.
 * **Research Reporting and Visualization**
 Present findings through executive briefs, technology comparison matrices, analytical reports, and decision-support dashboards.
+
+## Academic and Professional Relevance
+
+The study examines technology innovation, emerging technology assessment, market research, and the commercialization of complex technical systems. It also provides the framework for future work involving data integration, technology trend analysis, machine learning, generative AI and analytics to organize technical information, evaluate emerging technologies, identify patterns, and support strategic decisions. 
+
+The research paper reflects the relevant areas of the *Management of Technology and Innovation* course (<small> *special credits to: [Dr. Josue Reynoso](https://www.linkedin.com/in/josuereynoso)* </small>) covering:
+
+* Diversity, Necessity, and Evolution
+* Evolution of Technology
+* Emerging Technologies
+* New Product Development
+* Product Architecture
+* Technology Standards and Dominant Designs
+* Disruptive Innovation
+* Industry Lifecycle and Time of Entry
+* Marketing Innovative Products
+* Innovation Networks, Ecosystems, and Platforms
+* Intellectual Property Management and Technology Roadmapping
+* R&D Management and Technological Capabilities
+* Corporate Entrepreneurship and Innovation Management Systems
 
 ## Future Work
 
